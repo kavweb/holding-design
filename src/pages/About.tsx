@@ -1,4 +1,6 @@
-import { about, siteInfo } from '../data/content';
+// import { about, siteInfo } from '../data/content';
+// clear that for free err when deploying
+import { about } from '../data/content';
 import { Target, Eye, Heart, Award } from 'lucide-react';
 
 export default function About() {

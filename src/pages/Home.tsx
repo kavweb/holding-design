@@ -1,7 +1,9 @@
 import type { ReactNode } from "react";
 import { Link } from 'react-router-dom';
 import { ArrowLeft, Factory, Globe, Building2, Newspaper, TrendingUp, Shield } from 'lucide-react';
-import { homeHero, departments, siteInfo } from '../data/content';
+// import { homeHero, departments, siteInfo } from '../data/content';
+// clear that for free err when deploying
+import { homeHero, departments } from '../data/content';
 
 const icons: Record<string, ReactNode> = {
   Factory: <Factory className="w-8 h-8" />,
