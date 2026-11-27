@@ -68,21 +68,21 @@ export default function Contact() {
               <MapPin className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
               <div>
                 <div className="text-sm font-medium text-white">دفاتر</div>
-                <div className="text-sm text-slate-400">مشهد – شبکه دفاتر منطقه‌ای فابریک ۱۴۰۴</div>
+                <div className="text-sm text-slate-400">مشهد، بلوار امامت، حدفاصل امامت 33 و 35</div>
               </div>
             </div>
             <div className="flex items-start gap-3">
               <Phone className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
               <div>
                 <div className="text-sm font-medium text-white">تلفن</div>
-                <div className="text-sm text-slate-400">به‌زودی به‌روزرسانی می‌شود</div>
+                <div className="text-sm text-slate-400">09901171059</div>
               </div>
             </div>
             <div className="flex items-start gap-3">
               <Mail className="w-5 h-5 text-amber-400 shrink-0 mt-0.5" />
               <div>
                 <div className="text-sm font-medium text-white">ایمیل</div>
-                <div className="text-sm text-slate-400">info@hasanghasemigroup.com</div>
+                <div className="text-sm text-slate-400">10024.ir@gmail.com</div>
               </div>
             </div>
           </div>
