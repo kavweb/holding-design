@@ -59,15 +59,23 @@ export default function Footer() {
             <ul className="space-y-3 text-sm text-slate-400">
               <li className="flex items-start gap-2">
                 <MapPin className="w-4 h-4 mt-0.5 text-amber-500 shrink-0" />
-                <span>مشهد، دفاتر منطقه‌ای فابریک ۱۴۰۴</span>
+                <span>مشهد، بلوار امامت، حدفاصل امامت 33 و 35</span>
               </li>
               <li className="flex items-center gap-2">
                 <Phone className="w-4 h-4 text-amber-500 shrink-0" />
-                <span>در حال به‌روزرسانی</span>
+                <span>09901171059</span>
+              </li>
+              <li className="flex items-center gap-2">
+                <Phone className="w-4 h-4 text-amber-500 shrink-0" />
+                <span>09158589019</span>
+              </li>
+              <li className="flex items-center gap-2">
+                <Phone className="w-4 h-4 text-amber-500 shrink-0" />
+                <span>051-91011059</span>
               </li>
               <li className="flex items-center gap-2">
                 <Mail className="w-4 h-4 text-amber-500 shrink-0" />
-                <span>info@hasanghasemigroup.com</span>
+                <span>10024@gmail.com</span>
               </li>
             </ul>
           </div>
